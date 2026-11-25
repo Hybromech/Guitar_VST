@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Andrew Razer\\Programming Projects\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC2635B-1543-4204-980C-4A8BA7B83D76}|ClassLibrary1.csproj|c:\\andrew razer\\programming projects\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC2635B-1543-4204-980C-4A8BA7B83D76}|ClassLibrary1.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC2635B-1543-4204-980C-4A8BA7B83D76}|ClassLibrary1.csproj|c:\\andrew razer\\programming projects\\classlibrary1\\classlibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EEC2635B-1543-4204-980C-4A8BA7B83D76}|ClassLibrary1.csproj|solutionrelative:classlibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Andrew Razer\\Programming Projects\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Andrew Razer\\Programming Projects\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAcwIoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T22:28:22.349Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassLibrary1.csproj",
+              "DocumentMoniker": "C:\\Andrew Razer\\Programming Projects\\ClassLibrary1\\ClassLibrary1.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary1.csproj",
+              "ToolTip": "C:\\Andrew Razer\\Programming Projects\\ClassLibrary1\\ClassLibrary1.csproj*",
+              "RelativeToolTip": "ClassLibrary1.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-25T22:28:22.579Z",
+              "EditorCaption": "",
+              "OwnerCaption": "ClassLibrary1.csproj"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

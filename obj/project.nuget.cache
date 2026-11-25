@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oE7rVVbqFM=",
+  "success": true,
+  "projectFilePath": "C:\\Andrew Razer\\Programming Projects\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andy\\.nuget\\packages\\audioplugsharp\\0.7.13\\audioplugsharp.0.7.13.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\audioplugsharpvst3\\0.7.14\\audioplugsharpvst3.0.7.14.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\naudio\\3.3.0\\naudio.3.3.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\naudio.core\\3.3.0\\naudio.core.3.3.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\naudio.midi\\3.3.0\\naudio.midi.3.3.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\naudio.wasapi\\3.3.0\\naudio.wasapi.3.3.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\naudio.winmm\\3.3.0\\naudio.winmm.3.3.0.nupkg.sha512",
+    "C:\\Users\\Andy\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

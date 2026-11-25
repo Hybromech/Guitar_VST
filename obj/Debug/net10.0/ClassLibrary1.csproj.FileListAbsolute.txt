@@ -1,0 +1,15 @@
+C:\Andrew Razer\Programming Projects\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Andrew Razer\Programming Projects\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Andrew Razer\Programming Projects\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Andrew Razer\Programming Projects\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.AssemblyInfo.cs
+C:\Andrew Razer\Programming Projects\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Andrew Razer\Programming Projects\ClassLibrary1\bin\Debug\net10.0\AudioPlugSharp.dll
+C:\Andrew Razer\Programming Projects\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.deps.json
+C:\Andrew Razer\Programming Projects\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.dll
+C:\Andrew Razer\Programming Projects\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.pdb
+C:\Andrew Razer\Programming Projects\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.dll
+C:\Andrew Razer\Programming Projects\ClassLibrary1\obj\Debug\net10.0\refint\ClassLibrary1.dll
+C:\Andrew Razer\Programming Projects\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.pdb
+C:\Andrew Razer\Programming Projects\ClassLibrary1\obj\Debug\net10.0\ref\ClassLibrary1.dll
+C:\Andrew Razer\Programming Projects\ClassLibrary1\obj\Debug\net10.0\ClassLib.E736BF3C.Up2Date
+C:\Andrew Razer\Programming Projects\ClassLibrary1\bin\Debug\net10.0\AudioPlugSharpVst3.dll
